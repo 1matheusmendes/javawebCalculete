@@ -15,6 +15,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  *
  * @author matheus
+ * @author lohran
  */
 @WebServlet(urlPatterns = {"/calculadora"})
 public class calculadora extends HttpServlet {

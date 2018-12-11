@@ -2,6 +2,7 @@
     Document   : calculando
     Created on : 07/12/2018, 14:50:30
     Author     : matheus
+    Author     : lohran
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
